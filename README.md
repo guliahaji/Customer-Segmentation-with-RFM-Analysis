@@ -15,10 +15,10 @@ Using historical transaction data, I performed data cleaning, calculated RFM sco
 
 ## Technologies Used
 
-Python: For data processing and analysis
-Pandas: Data manipulation
-Scikit-learn: Clustering
-Matplotlib: Visualization
+- Python: For data processing and analysis
+- Pandas: Data manipulation
+- Scikit-learn: Clustering
+- Matplotlib: Visualization
 
 ## Results
 
