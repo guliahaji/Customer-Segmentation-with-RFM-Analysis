@@ -4,7 +4,8 @@ This project uses RFM (Recency, Frequency, Monetary) analysis to segment custome
 
 ## Project Overview
 
-Using historical transaction data, I performed data cleaning, calculated RFM scores, and applied K-means clustering to categorize customers into distinct segments. Each segment received personalized recommendations for engagement and retention.
+Using historical transaction data, I performed data cleaning, calculated RFM scores, and applied K-means clustering to categorize customers into distinct segments. Each segment received personalized recommendations for engagement and retention. 
+You can download the dataset from here: https://archive.ics.uci.edu/dataset/352/online+retail
 
 ## Key Steps:
 
